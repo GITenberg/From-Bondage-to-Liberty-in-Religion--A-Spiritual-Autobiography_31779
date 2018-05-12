@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35459'
     url: http://www.gutenberg.org/2009/agents/35459
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31779#From-Bondage-to-Liberty-in-Religion--A-Spiritual-Autobiography
 gutenberg_issued: '2010-03-25'
 gutenberg_type: Text
 identifiers:
